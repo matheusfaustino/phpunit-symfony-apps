@@ -1,0 +1,6 @@
+{
+    "require": {
+        "codegyre/robo": "^0.7.2",
+        "henrikbjorn/lurker": "^1.1"
+    }
+}
